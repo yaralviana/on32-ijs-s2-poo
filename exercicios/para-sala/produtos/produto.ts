@@ -1,4 +1,3 @@
-
 import { ProdutoInterface } from "./interfaces/produtos.interface"
 
 export class Produto implements ProdutoInterface {
